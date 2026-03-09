@@ -6,3 +6,7 @@
 ### Epochs (100)
 
 I chose **100 epochs** so the model has enough training cycles to learn patterns from the dataset and improve its accuracy. This value allows the model to update its weights multiple times while keeping the training time reasonable. It is also a common starting point in many machine learning experiments.
+
+### Confusion Matrix
+<img width="382" height="756" alt="image" src="https://github.com/user-attachments/assets/2ddad6c9-a318-40aa-86da-ac3466f65648" />
+<img width="382" height="756" alt="image" src="https://github.com/user-attachments/assets/2ddad6c9-a318-40aa-86da-ac3466f65648" />
