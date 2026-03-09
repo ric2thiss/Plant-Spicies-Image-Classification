@@ -15,3 +15,11 @@ I chose **100 epochs** so the model has enough training cycles to learn patterns
 
 ### Accuracy per Epoch
 <img width="368" height="602" alt="image" src="https://github.com/user-attachments/assets/3e377861-23d2-4d19-a454-fb388a4793c8" />
+
+## Step 6: Test the Model (Preview Section)
+### Input image : Anyanmee
+### Predicted plant class : Anyanmee, Silver Bay, Prosperity
+### Confidence Score: 53%
+<img width="305" height="517" alt="image" src="https://github.com/user-attachments/assets/13bcbc8b-3fa3-4984-b0d3-cf1116fa5362" />
+<img width="361" height="857" alt="image" src="https://github.com/user-attachments/assets/a06c74da-0e67-4bdf-b255-3a880ba6bde5" />
+
