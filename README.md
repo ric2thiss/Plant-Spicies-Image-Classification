@@ -9,4 +9,9 @@ I chose **100 epochs** so the model has enough training cycles to learn patterns
 
 ### Confusion Matrix
 <img width="382" height="756" alt="image" src="https://github.com/user-attachments/assets/2ddad6c9-a318-40aa-86da-ac3466f65648" />
-<img width="382" height="756" alt="image" src="https://github.com/user-attachments/assets/2ddad6c9-a318-40aa-86da-ac3466f65648" />
+
+### Accuracy Per Class
+<img width="377" height="786" alt="image" src="https://github.com/user-attachments/assets/ea126a4b-5f11-4299-bc14-d8f69579014a" />
+
+### Accuracy per Epoch
+<img width="368" height="602" alt="image" src="https://github.com/user-attachments/assets/3e377861-23d2-4d19-a454-fb388a4793c8" />
