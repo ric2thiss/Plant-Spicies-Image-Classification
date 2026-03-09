@@ -130,4 +130,26 @@ The following metrics were captured from the "Under the Hood" section of Teachab
 <img width="278" height="413" alt="image" src="https://github.com/user-attachments/assets/b965fca2-f70b-4c96-bb1d-2ad1c21f46cb" />
 
 
+### F. Reflection Questions
+1. How did the number of images per class affect your model’s accuracy?
+Using 250 images per class helped the model learn better. More images allowed the model to see the plants in different lighting and angles. With more data, the model became more accurate at identifying each specific variant.
+
+2. Which plant species were most commonly misclassified and why?
+The model often confused 'Lady Valentine' and 'Valentine'. It also struggled with 'Siam Aurora' and 'Crete'. This is because these plants have very similar pink and red colors and the same leaf shapes, making it hard for the AI to tell them apart.
+
+3. How did changing the epochs, batch size, or learning rate affect the training results?
+
+Epochs: More epochs helped the model learn the leaf patterns better, but too many made the training take a long time without much gain.
+
+Batch Size: A smaller batch size helped the model learn more carefully.
+
+Learning Rate: A low learning rate was better for these plants. It kept the model from making big mistakes during training.
+
+4. What challenges did you encounter during dataset collection and labeling?
+The biggest challenge was finding unique photos of each variant. Some plants, like 'Pictum Tricolor', are rare and hard to find. Also, many photos online are mislabeled, so I had to double-check every image to make sure it was the correct plant.
+
+5. If you were to improve your model, what specific changes would you make and why?
+I would add close-up photos of the leaf textures. This would help the model see the small details that make each plant unique. I would also add more images of the plants in different rooms to help the model recognize them in any environment.
+
+
 
