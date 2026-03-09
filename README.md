@@ -1,4 +1,34 @@
-# Plant-Spicies-Image-Classification
+# Plant Species Image Classification
+## Laboratory Work 2-A Activity
+
+### A. Project Overview
+This project focuses on the development of a machine learning model designed to classify 20 different variants of Aglaonema. Aglaonemas are popular ornamental plants known for their diverse variegation patterns, ranging from deep greens to vibrant pinks and reds.
+
+### Purpose: 
+The goal is to evaluate how effectively an Image Classification model (trained via Teachable Machine) can distinguish between closely related cultivars that share similar leaf shapes but differ in color distribution and spotting patterns.
+
+### B. Plant Species Section
+#,Common Name,Scientific Name / Cultivar,Distinctive Visual Description,Representative Image
+1,Siam Aurora,Aglaonema 'Siam Aurora',Green leaves with vibrant red/pink borders and midribs.,![Siam Aurora](images/siam_aurora.jpg)
+2,Suksom Jaipong,Aglaonema 'Suksom Jaipong',"Known for almost solid, glowing red leaves with very little green.",![Suksom Jaipong](images/suksom.jpg)
+3,Lady Valentine,Aglaonema 'Lady Valentine',Rose-pink leaves splashed with dark green blotches and margins.,![Lady Valentine](images/lady_valentine.jpg)
+4,Silver Bay,Aglaonema 'Silver Bay',"Large, oval leaves with a broad, silvery-gray center and green edges.",![Silver Bay](images/silver_bay.jpg)
+5,Pictum Tricolor,Aglaonema pictum 'Tricolor',"A rare ""camouflage"" pattern consisting of three shades of green.",![Pictum Tricolor](images/pictum.jpg)
+6,Super White,Aglaonema 'Super White',Pure creamy-white foliage with very thin green veins.,![Super White](images/super_white.jpg)
+7,Pink Dalmatian,Aglaonema 'Pink Dalmatian',"Deep green waxy leaves covered in bright pink ""polka dot"" spots.",![Pink Dalmatian](images/dalmatian.jpg)
+8,Maria,Aglaonema 'Maria',"Dense, dark green foliage with silver-green wavy markings.",![Maria](images/maria.jpg)
+9,Silver Queen,Aglaonema 'Silver Queen',"Narrow, lance-shaped leaves with heavy silver-gray variegation.",![Silver Queen](images/silver_queen.jpg)
+10,Red Anjamani,Aglaonema 'Red Anjamani',"Bright red leaves with a very thin, dark green border.",![Red Anjamani](images/anjamani.jpg)
+11,White Rajah,Aglaonema 'White Rajah',Elegant white-to-cream centers with green feathery edges.,![White Rajah](images/white_rajah.jpg)
+12,Emerald Bay,Aglaonema 'Emerald Bay',"Dark green edges with a muted, smoky-silver center.",![Emerald Bay](images/emerald_bay.jpg)
+13,Anyanmee,Aglaonema 'Anyanmee',"High-contrast red and green patterns, often with speckled borders.",![Anyanmee](images/anyanmee.jpg)
+14,First Diamond,Aglaonema 'First Diamond',Highly variegated white leaves with dark green flecks.,![First Diamond](images/first_diamond.jpg)
+15,Crete,Aglaonema 'Crete',"Green leaves with narrow, fiery red edges and pink undersides.",![Crete](images/crete.jpg)
+16,Cochin,Aglaonema 'Cochin',"Rounder leaves with a blend of pink, cream, and green patches.",![Cochin](images/cochin.jpg)
+17,Sparkling Sarah,Aglaonema 'Sparkling Sarah',Light green leaves with pink midribs and yellow-pink speckles.,![Sparkling Sarah](images/sarah.jpg)
+18,Valentine,Aglaonema 'Valentine',"Broad leaves with deep, vibrant pink centers and green margins.",![Valentine](images/valentine.jpg)
+19,Black Lance,Aglaonema 'Black Lance',"Long, pointed leaves with a silver center and very dark edges.",![Black Lance](images/black_lance.jpg)
+20,Prosperity,Aglaonema 'Prosperity',Features a unique mix of pinkish-white centers and green marbling.,![Prosperity](images/prosperity.jpg)
 
 ### Screenshot of the training settings
 <img width="1522" height="815" alt="image" src="https://github.com/user-attachments/assets/e5e5154d-dfd3-4358-877b-f4500b9da2ac" />
