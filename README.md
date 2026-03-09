@@ -50,7 +50,6 @@ I chose **100 epochs** so the model has enough training cycles to learn patterns
 ### Predicted plant class : Emerald Bay, Silver Bay
 ### Confidence Score: 99%
 <img width="423" height="891" alt="image" src="https://github.com/user-attachments/assets/434205ca-de9b-4378-9b9f-5a6fa6dbe6c6" />
-<img width="423" height="891" alt="image" src="https://github.com/user-attachments/assets/434205ca-de9b-4378-9b9f-5a6fa6dbe6c6" />
 
 ##6.
 ### Input image : First Diamond
@@ -64,7 +63,6 @@ I chose **100 epochs** so the model has enough training cycles to learn patterns
 ### Predicted plant class : Lady Valentine, Valentine
 ### Confidence Score: 78%
 <img width="375" height="362" alt="image" src="https://github.com/user-attachments/assets/fd467e35-9801-4aca-84b3-266ca1d88c1b" />
-<img width="303" height="882" alt="image" src="https://github.com/user-attachments/assets/e567561f-095e-460e-8d5b-c590092d7238" />
 <img width="303" height="882" alt="image" src="https://github.com/user-attachments/assets/e567561f-095e-460e-8d5b-c590092d7238" />
 
 ##8.
@@ -81,14 +79,10 @@ I chose **100 epochs** so the model has enough training cycles to learn patterns
 <img width="328" height="297" alt="image" src="https://github.com/user-attachments/assets/d0e91be5-38b0-4bd0-981d-2059da63fb2d" />
 <img width="312" height="768" alt="image" src="https://github.com/user-attachments/assets/21e6da80-48aa-456d-81fd-551348f69d7f" />
 
--
-
-
 ##10.
 ### Input image : Siam Aurora
 ### Predicted plant class : Siam Aurora
 ### Confidence Score: 100%
-<img width="278" height="413" alt="image" src="https://github.com/user-attachments/assets/b965fca2-f70b-4c96-bb1d-2ad1c21f46cb" />
 <img width="278" height="413" alt="image" src="https://github.com/user-attachments/assets/b965fca2-f70b-4c96-bb1d-2ad1c21f46cb" />
 
 
